@@ -27,7 +27,7 @@ This project investigates and compares two ensemble machine learning techniquesâ
 
 - **Language**: Python 3.9+
 - **Libraries**: `scikit-learn`, `XGBoost`, `LightGBM`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `SHAP`, `imbalanced-learn`
-- **Environment**: Jupyter Notebook (Anaconda)
+- **Environment**: Jupyter Notebook on GPU 
 - **Monitoring Tools**: MLflow, TensorBoard, `psutil`, `df -h`
 
 ## Evaluation Metrics
